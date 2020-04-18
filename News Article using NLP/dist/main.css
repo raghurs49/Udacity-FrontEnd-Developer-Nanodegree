@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:400,500&display=swap);
+html{font-size:10px;font-family:"Roboto Mono", monospace;-webkit-font-smoothing:antialiased}body,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,code,img,form,label,footer,header,menu,nav,section{margin:0;padding:0;border:0;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1.2}ol,ul{list-style:none}blockquote,q{quotes:none}
+
+header{background-color:#85bfff;position:fixed;display:flex;width:100%;justify-content:center;padding:2rem 0;box-shadow:0 4px 4px rgba(0,0,0,0.12)}
+
+footer{background-color:#545454;display:flex;width:100%;justify-content:center;padding:2rem 0}footer>p{color:#ffffff}
+
+form{margin:2rem 0;display:flex;flex-direction:column;align-items:center}label{font-size:1.6rem;font-weight:bold}input[type="text"],input[type="url"]{width:60%;padding:0.5rem 1rem;margin:0.5rem 1rem;border-radius:0.5rem;border:0;background-color:#b8b8b8;font-size:1.6rem;font-family:"Roboto Mono", monospace}.submit-button{padding:2rem}@media only screen and (max-width: 768px){input[type="text"],input[type="url"]{width:95%}}
+
+h1{font-size:2.5rem;font-weight:bold}h2{font-size:2rem;font-weight:bold;margin:0.5rem 0}h3{font-size:1.8rem;font-weight:bold;margin:0.5rem 0}h4{font-size:1.6rem;font-weight:bold;margin:0.5rem 0}p{font-size:1.6rem;margin:0.5rem 0}body{background-color:#ffffff;min-height:100vh}main{padding:8rem}@media only screen and (max-width: 768px){main{padding:8rem 1rem}}
+
