@@ -5,3 +5,4 @@ Project2: Landing Page
 Project3: Weather Journal App
 Project4: Evaluate a news article using NLP
 Project5: Udacity FEND Capstone Project
+Certificate Link: https://confirm.udacity.com/NSGL6V32
